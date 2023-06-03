@@ -12,4 +12,5 @@
 *.vsix
 
 *.vbak
-*.bak_000f
+*.bak*
+*.vpp.lck
